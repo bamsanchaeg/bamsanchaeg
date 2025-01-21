@@ -41,11 +41,11 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   </div>
-  <br>
   
+  <br>
+  <br>
+    
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamsanchaeg&hide_progress=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights)
-  
-  <br>
   
   ![Leedoyo's status](https://github-readme-stats.vercel.app/api?username=bamsanchaeg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights)
   
