@@ -43,7 +43,7 @@
   </div>
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamsanchaeg)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamsanchaeg&hide_progress=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights)
   
   <br>
   
