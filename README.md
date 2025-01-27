@@ -44,8 +44,8 @@
   
   <br>
   <br>
-    
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamsanchaeg&hide_progress=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamsanchaeg&layout=compact&seconds=86400&theme=city_lights)
   
   ![Leedoyo's status](https://github-readme-stats.vercel.app/api?username=bamsanchaeg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights)
   
